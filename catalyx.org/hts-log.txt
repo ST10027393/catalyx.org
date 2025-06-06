@@ -1,0 +1,56 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 05 Jun 2025 07:07:03 at https://catalyx.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://catalyx.org/ -O1 "D:\Code\Catalyx_images\catalyx.org" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:08:44	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link wpuidemos.com/wp-content/uploads/2023/02/Image1.png (from https://catalyx.org/)
+07:10:21	Error: 	"Not Found" (404) at link https://catalyx.org/wp-content/themes/conbix/assets/webfonts/fa-brands-400.svg (from https://catalyx.org/wp-content/themes/conbix/assets/css/all.css?ver=1.0.2)
+07:10:22	Error: 	"Not Found" (404) at link https://catalyx.org/wp-content/themes/conbix/assets/webfonts/fa-duotone-900.svg (from https://catalyx.org/wp-content/themes/conbix/assets/css/all.css?ver=1.0.2)
+07:10:22	Error: 	"Not Found" (404) at link https://catalyx.org/wp-content/themes/conbix/assets/webfonts/fa-light-300.svg (from https://catalyx.org/wp-content/themes/conbix/assets/css/all.css?ver=1.0.2)
+07:10:22	Error: 	"Not Found" (404) at link https://catalyx.org/wp-content/themes/conbix/assets/webfonts/fa-regular-400.svg (from https://catalyx.org/wp-content/themes/conbix/assets/css/all.css?ver=1.0.2)
+07:10:22	Error: 	"Not Found" (404) at link https://catalyx.org/wp-content/themes/conbix/assets/webfonts/fa-solid-900.svg (from https://catalyx.org/wp-content/themes/conbix/assets/css/all.css?ver=1.0.2)
+07:10:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link wpuidemos.com/wp-content/uploads/2023/02/Image1.png (from https://catalyx.org/)
+07:10:24	Warning: 	Moved Permanently for https://catalyx.org/?p=1941
+07:10:24	Warning: 	File has moved from https://catalyx.org/?p=1941 to https://catalyx.org/about-us/
+07:10:27	Warning: 	Moved Permanently for https://catalyx.org/?p=1983
+07:10:27	Warning: 	File has moved from https://catalyx.org/?p=1983 to https://catalyx.org/team/
+07:10:29	Warning: 	Moved Permanently for https://catalyx.org/?p=1942
+07:10:29	Warning: 	File has moved from https://catalyx.org/?p=1942 to https://catalyx.org/services/
+07:11:37	Warning: 	Moved Permanently for https://catalyx.org/?p=1967
+07:11:37	Warning: 	File has moved from https://catalyx.org/?p=1967 to https://catalyx.org/projects/
+07:12:06	Warning: 	Moved Permanently for https://catalyx.org/portfolio/yes-for-youth-programme/
+07:12:06	Warning: 	File has moved from https://catalyx.org/portfolio/yes-for-youth-programme/ to https://catalyx.org/portfolio/youth-programmes/
+07:12:07	Warning: 	Moved Permanently for https://catalyx.org/?p=1948
+07:12:07	Warning: 	File has moved from https://catalyx.org/?p=1948 to https://catalyx.org/contact-us/
+07:12:07	Error: 	"Not Found" (404) at link https://catalyx.org/cdn-cgi/l/email-protection (from https://catalyx.org/contact-us/)
+07:12:07	Warning: 	Moved Permanently for https://catalyx.org/?p=3817
+07:12:07	Warning: 	File has moved from https://catalyx.org/?p=3817 to https://catalyx.org/service/bbbee-services/
+07:12:07	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link wpuidemos.com/wp-content/uploads/2023/02/Image1.png (from https://catalyx.org/)
+07:12:08	Warning: 	Moved Permanently for https://catalyx.org/?p=5195
+07:12:08	Warning: 	File has moved from https://catalyx.org/?p=5195 to https://catalyx.org/service/upward-mobility-programme/
+07:12:08	Warning: 	Moved Permanently for https://catalyx.org/?p=5186
+07:12:08	Warning: 	File has moved from https://catalyx.org/?p=5186 to https://catalyx.org/service/community-social-facilitation/
+07:12:09	Warning: 	Moved Permanently for https://catalyx.org/?p=5175
+07:12:09	Warning: 	File has moved from https://catalyx.org/?p=5175 to https://catalyx.org/service/catalyx-training/
+07:12:10	Warning: 	Moved Permanently for https://catalyx.org/?p=5335
+07:12:10	Warning: 	File has moved from https://catalyx.org/?p=5335 to https://catalyx.org/portfolio/afros-chicken-shop-pavilion/
+07:12:10	Warning: 	Moved Permanently for https://catalyx.org/?p=5392
+07:12:10	Warning: 	File has moved from https://catalyx.org/?p=5392 to https://catalyx.org/portfolio/bluff-personnel/
+07:12:11	Warning: 	Moved Permanently for https://catalyx.org/?p=5413
+07:12:11	Warning: 	File has moved from https://catalyx.org/?p=5413 to https://catalyx.org/service/biometric-fingerprint-services/
+07:12:12	Warning: 	Moved Permanently for https://catalyx.org/?p=5385
+07:12:12	Warning: 	File has moved from https://catalyx.org/?p=5385 to https://catalyx.org/portfolio/mindgame-escape/
+07:12:12	Warning: 	Moved Permanently for https://catalyx.org/?p=5356
+07:12:12	Warning: 	File has moved from https://catalyx.org/?p=5356 to https://catalyx.org/portfolio/jumpstart/
+07:12:12	Warning: 	Moved Permanently for https://catalyx.org/?p=3755
+07:12:12	Warning: 	File has moved from https://catalyx.org/?p=3755 to https://catalyx.org/portfolio/intercement-sa-npc/
+07:12:13	Warning: 	Moved Permanently for https://catalyx.org/?p=5227
+07:12:13	Warning: 	File has moved from https://catalyx.org/?p=5227 to https://catalyx.org/portfolio/tongaat-hulett/
+07:12:23	Warning: 	Moved Permanently for https://catalyx.org/?p=5238
+07:12:23	Warning: 	File has moved from https://catalyx.org/?p=5238 to https://catalyx.org/portfolio/youth-programmes/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 21 seconds : 398 links scanned, 370 files written (32444423 bytes overall) [22113065 bytes received at 68888 bytes/sec], 16705824 bytes transferred using HTTP compression in 254 files, ratio 34%, 28.2 requests per connection
+(7 errors, 38 warnings, 0 messages)
